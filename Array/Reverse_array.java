@@ -21,6 +21,8 @@ public class Reverse_array {
         for(int k=0;k<n;k++){
             System.out.print(arr[k]+" ");
         }
+        sc.close();
+
     }
 
     

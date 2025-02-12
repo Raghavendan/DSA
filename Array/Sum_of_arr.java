@@ -14,6 +14,9 @@ class Sum{
             sum=sum+arr[i];
         }
         System.out.println(sum);
+
+        sc.close();
+
        
 
     

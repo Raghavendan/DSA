@@ -18,6 +18,8 @@ public class Max_of_array {
             }
         }
         System.out.printf("Maximun no:"+ Max);
+        sc.close();
+
 
     }
     
